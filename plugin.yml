@@ -1,0 +1,9 @@
+name: Gadget
+version: 1.0
+author: Berstanio
+
+main: de.berstanio.lobby.bukkit.BukkitMain
+
+commands:
+  test:
+  coins:
